@@ -1,0 +1,3 @@
+﻿Text file so that the ExampleController will work.
+
+GiveMeAFile action should display this file. 
